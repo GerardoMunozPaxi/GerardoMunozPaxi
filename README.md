@@ -1,8 +1,7 @@
-Hola, soy un estudiante de la carrera de Ingeniería de Telecomunicaciones, actualmente mi centro de estudios es la Universidad Nacional de San Agustín ubicado en Arequipa, Perú.
+Hola, soy un estudiante de la carrera de Ingeniería de Telecomunicaciones, actualmente mi centro de estudios es la Universidad Nacional de San Agustín ubicado en Arequipa, Perú. Actualmente utiliza el lenguaje pythob y tengo un dominio en nivel básico.
 
 Contact:
 
 Gmail: gmunozp@unsa.edu.pe
 
-Lenguaje: python 
-Nivel: Básico
+
